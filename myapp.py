@@ -1,6 +1,6 @@
 hello world
 this is the secod line
-lot
+lot of juniors added
 of chnages
 are being made 
 to thsi file
